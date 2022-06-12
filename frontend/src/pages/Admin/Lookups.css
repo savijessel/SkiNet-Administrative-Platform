@@ -1,0 +1,9 @@
+.scrollableList {
+  max-height: 300px;
+}
+
+.modal-error {
+  border-color: black;
+  border-width: thick;
+  background-color: rgba(217, 84, 79, 0.747);
+}

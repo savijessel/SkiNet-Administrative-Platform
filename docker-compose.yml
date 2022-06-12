@@ -1,0 +1,26 @@
+version: "3.9"
+services:
+    csp-db:
+        image: mysql:latest
+        restart: always
+        environment:
+            MYSQL_DATABASE: 'csp'
+            MYSQL_ROOT_PASSWORD: 'development_test'
+        ports:
+            - '3306:3306'
+        volumes:
+            - backing_db_store:/var/lib/mysql
+    csp-backend:
+      build: ./backend
+      ports:
+        - "8080:8080"
+      depends_on:
+        - csp-db
+    csp-frontend:
+      build: ./frontend
+      ports:
+        - "127.0.0.1:80:3000/tcp"
+      depends_on:
+        - csp-backend
+volumes:
+    backing_db_store:

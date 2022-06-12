@@ -1,0 +1,13 @@
+.myImage {
+  margin-left: 10px;
+}
+
+.signOutButton {
+  margin-right: 10px;
+  color: rgb(255, 255, 255) !important;
+  background-color: rgba(167, 25, 45, 1) !important;
+}
+
+.userButton {
+  margin-right: 10px;
+}

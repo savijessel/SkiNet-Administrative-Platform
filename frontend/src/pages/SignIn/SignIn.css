@@ -1,0 +1,25 @@
+.container-bg {
+  background-image: url(../../images/LLSS\ Roster\ Page.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  /* opacity: 0.8; */
+}
+
+.signin-card {
+  margin-left: 10px;
+  max-width: 25rem;
+  background-color: rgba(105, 104, 136, 0.603);
+  border-radius: 25px;
+  opacity: 1;
+}
+
+.signin-div {
+  border-width: 0;
+}
+
+.signin-button {
+  opacity: 1;
+  color: rgb(255, 255, 255) !important;
+  background-color: rgba(167, 25, 45, 1) !important;
+  /* border-color: rgb(255, 31, 31) !important; */
+}

@@ -1,8 +1,4 @@
 
-
-
-* * *
-
 The Canadian Ski Patrol (CSP) Non-Profit organization currently uses spreadsheets and antiquated scheduling software to handle its logistics. In 2020-2021, a software capstone team developed a basic scheduling application to modernize CSP.
 
 In the 2021-2022 academic year, team Ski-Tastic has enhanced and revamped this application. The expansions to this application include a thorough database model and report-generation page, allowing administrators to easily generate highly specified reports on their patrollers, and a communications page where posts can be created with attachments. The previous backend framework was neither powerful nor flexible enough to handle this new database and has been replaced with a Java-based framework. The new database, now seven times larger, provides admins with full flexibility by allowing them to modify entries, as opposed to the previous hard-coded model. Additionally, the scheduling feature has been rebuilt to meet the new standards. Thus, the new CSP solution is a thorough enhancement.

@@ -25,7 +25,7 @@ This application was written with the full intention of being deployed to a live
 
 The testing instance additionally served as a stepping block for the deployment of the final production application by using Amazon services. Ski-tastic ensured that there would be little-to-no issues or surprises with transitioning the website to its final EC2 t3.small server.
 
-> De_ployment in Mind_
+> Deployment in Mind_
 
 > _Practical Test Portfolio_
 
@@ -83,92 +83,5 @@ The news and information page is the other major feature addition to the website
 
 ![](https://engineeringdesignfair.ucalgary.ca/software/wp-content/uploads/sites/10/2022/04/Information-Page-Diagram-1.png)
 
-* * *
-
-Partners and Mentors.
-
-* * *
-
-![](http://engineeringdesignfair.ucalgary.ca/software/wp-content/uploads/sites/10/2022/03/HB_Software_UofCLogo-1.png)
-
-![](https://engineeringdesignfair.ucalgary.ca/software/wp-content/uploads/sites/10/2022/03/CSP_Logo_Text_right_of_logo-1024x360.jpg)
-
-_Teaching Assistant_ – **Tariq Al Shoura**
-
-_Academic Advisor_ – **Professor Behrouz Far**
-
-_Sponsor Contact_ – **Marielle Flottat**
-
-_Spnsor Contact_ – **Riley Barry**
-
-The Team.
----------
-
-![](http://engineeringdesignfair.ucalgary.ca/software/wp-content/uploads/sites/10/2022/03/Ski-tastic-Logo-1024x497.png)
-
-![](http://engineeringdesignfair.ucalgary.ca/software/wp-content/uploads/sites/10/2022/04/Salah-Image-1024x1024.jpg)
-
-*   [LinkedIn](https://www.linkedin.com/in/salahsheikh/)
-
-Salah Sheikh
-------------
-
-Salah Sheikh is graduating in Electrical Engineering with a minor in Computer Engineering. Salah completed software engineering internships at Synopsys, AMD, and Apple, respectively during his undergraduate journey. During his time there, Salah developed software development skills in a variety of areas such as web development and embedded firmware development.
-
-Branden Wong
-------------
-
-Branden Wong is graduating in Electrical Engineering with a minor in Computer Engineering. Branden has completed internships at TC Energy, working as a Project Engineering Intern, and a research studentship under Dr. Bruce Pike, focusing on development of a MRI data analysis application in C++.
-
-*   [LinkedIn](https://www.linkedin.com/in/branden-wong-a7b1a3155/)
-
-![](http://engineeringdesignfair.ucalgary.ca/software/wp-content/uploads/sites/10/2022/04/IMG_2095-1024x1024.png)
-
-![](https://engineeringdesignfair.ucalgary.ca/software/wp-content/uploads/sites/10/2022/03/savi_wordpress-1024x1024.jpg)
-
-*   [LinkedIn](https://www.linkedin.com/in/savi-jessel/)
-
-Savi Jessel
------------
-
-Savi Jessel is graduating in Electrical Engineering with a minor in Computer Engineering. Savi has interned at AltaLink for just under 3 years, where he gained experience in the telecommunications, substations, and transmission lines disciplines. Through this project and various other pursuits, Savi looks forward to becoming a capable software developer.
-
-Mohtashim Khan
---------------
-
-Mohtashim Khan is graduating in Electrical Engineering with a minor in Computer Engineering. Mohtashim has completed a formal internship at Suncor Energy where he worked as an E&I Reliability Engineering Co-op student. After self learning various web frameworks, Mohtashim hopes he can refine his skills through his participation in this capstone.
-
-*   [LinkedIn](https://www.linkedin.com/in/motokhan/)
-
-![](https://engineeringdesignfair.ucalgary.ca/software/wp-content/uploads/sites/10/2022/03/275196062_1302080896958021_2311289727811960615_n-1-1024x1024.jpg)
-
-![](https://engineeringdesignfair.ucalgary.ca/software/wp-content/uploads/sites/10/2022/03/IMG_1260-1-1024x1024.jpg)
-
-*   [LinkedIn](http://www.linkedin.com/in/dan-g-tran)
-
-Dan Tran
---------
-
-Dan Tran is graduating in Electrical Engineering. He has completed an internship at PCL Construction as a software developer student, gaining in WEB and Mobile development using Microsoft’s .NET framework. Dan hopes to continue expanding his engineering portfolio and gain even more skills in the massive field of Electrical Engineering.
-
-Our Photo Gallery.
-
-![](https://engineeringdesignfair.ucalgary.ca/software/wp-content/uploads/sites/10/2022/04/Comparison-of-Actual-Dan-CSP-EER-diagram-including-past-tables.drawio-1-1024x656.png)
-
-![](https://engineeringdesignfair.ucalgary.ca/software/wp-content/uploads/sites/10/2022/04/Reports-Page-1024x575.png)
-
-![](https://engineeringdesignfair.ucalgary.ca/software/wp-content/uploads/sites/10/2022/04/Topics-Page-1024x576.png)
-
-![](https://engineeringdesignfair.ucalgary.ca/software/wp-content/uploads/sites/10/2022/04/Whole-Scheduling-Page-1-1024x576.png)
-
-![](https://engineeringdesignfair.ucalgary.ca/software/wp-content/uploads/sites/10/2022/04/Backend-Comparison.drawio-1024x625.png)
-
-![](https://engineeringdesignfair.ucalgary.ca/software/wp-content/uploads/sites/10/2022/04/Whole-Profile-Page-1-880x1024.png)
-
-![](https://engineeringdesignfair.ucalgary.ca/software/wp-content/uploads/sites/10/2022/04/Create-Post-1-1024x456.png)
-
-![](https://engineeringdesignfair.ucalgary.ca/software/wp-content/uploads/sites/10/2022/04/User-List-Page-1-1024x405.png)
-
-[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fengineeringdesignfair.ucalgary.ca%2Fsoftware%2Fskinet%2F&linkname= "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fengineeringdesignfair.ucalgary.ca%2Fsoftware%2Fskinet%2F&linkname= "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fengineeringdesignfair.ucalgary.ca%2Fsoftware%2Fskinet%2F&linkname= "Email")[](https://www.addtoany.com/share)
 
 

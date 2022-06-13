@@ -45,7 +45,7 @@ public class S3StorageServiceImpl implements AttachmentStorageServices {
     private final Path attachmentsDownloadStagingDirectory = Paths.get("/tmp/csp/attachments/staging/download");
 
     // TODO: Replace with environment variables--only for testing purposes!
-    private final BasicAWSCredentials credentials = new BasicAWSCredentials("AKIAQA7UPADTKXE4AG5N", "UDw9a10H8hwXxwxTu3aZevuY0PPr4aVOSeGdzdRS");
+    private final BasicAWSCredentials credentials = new BasicAWSCredentials();
 
     private final AmazonS3 s3 = AmazonS3ClientBuilder.standard().withCredentials(new AWSStaticCredentialsProvider(credentials)).withRegion(Regions.US_EAST_2).build();
 
